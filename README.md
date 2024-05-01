@@ -15,6 +15,7 @@ A responsive website containing information about Edusity college.
 # Links
 
 - github URL: https://github.com/MercySitienei/Edusity
+- live site URL: https://mercysitienei.github.io/Edusity/
 
 # Built with
 
